@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "supernova:launch_pad",
+    "supernova:ship",
+    "supernova:gleba_stone",
+    "supernova:gleba_crystal"
+  ]
+}
