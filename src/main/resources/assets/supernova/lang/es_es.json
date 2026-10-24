@@ -1,0 +1,22 @@
+{
+  "itemGroup.supernova": "Supernova",
+  "item.supernova.dilithium_tank": "Tanque de dilitio",
+  "block.supernova.launch_pad": "Base de lanzamiento",
+  "block.supernova.ship": "Nave",
+  "block.supernova.gleba_stone": "Roca de Gleba",
+  "block.supernova.gleba_soil": "Tierra de Gleba",
+  "block.supernova.gleba_moss": "Musgo de Gleba",
+  "block.supernova.gleba_sand": "Arena de Gleba",
+  "block.supernova.gleba_crystal": "Cristal de Gleba",
+  "entity.supernova.ship": "Nave en vuelo",
+  "container.supernova.ship": "Panel de control de la nave",
+  "subtitles.supernova.explosion": "Explota una supernova",
+  "subtitles.supernova.rumble": "Retumba una estrella",
+  "subtitles.supernova.ship_launch": "Despega una nave",
+  "subtitles.supernova.ship_warp": "Salto temporal",
+  "subtitles.supernova.beep": "Pitido",
+  "subtitles.supernova.ringing": "Zumbido en los oídos",
+  "block.supernova.gleba_stalk": "Tallo de Gleba",
+  "block.supernova.gleba_cap": "Sombrero luminoso de Gleba",
+  "subtitles.supernova.engine_charge": "Se encienden los motores"
+}
